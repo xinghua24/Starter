@@ -1,0 +1,16 @@
+.project
+.classpath
+.settings/
+.metadata/
+
+.idea/
+
+target/
+
+# java files to ignore
+*.class
+*.jar
+*.war
+*.ear
+
+.DS_Store
