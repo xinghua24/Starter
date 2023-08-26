@@ -1,16 +1,17 @@
-.project
-.classpath
-.settings/
-.metadata/
-
-.idea/
-
+HELP.md
 target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
 
-# java files to ignore
-*.class
-*.jar
-*.war
-*.ear
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
 
 .DS_Store
